@@ -4,7 +4,7 @@ This project is a simple Gradio interface for generating responses from the Code
 
 ## Project Structure
 
-```bash
+```
 project-directory/ │ ├── app.py ├── requirements.txt ├── .env ├── README.md ├── LICENSE ├── .gitignore └── Screenshot_2024-08-28_224139.png
 ```
 
